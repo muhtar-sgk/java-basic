@@ -16,8 +16,8 @@ public class BasicSyntax {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Orange orange = new Orange();
-        orange.warna("kuning");
+        Fruit fruit = new Fruit();
+        fruit.warna("kuning");
     }
     
 }
